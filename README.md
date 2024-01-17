@@ -1,7 +1,7 @@
 # movieApp-Java-Project
 
 ### Login Page
-<img width="625" alt="image" src="https://github.com/Divnoor-4602/movieApp-Java-Project/assets/120365130/3343e9fa-307d-4ad2-8705-840decf39f73">
+<img width="625" alt="image" src="https://github.com/Lakshayyy-m/movieApp-Java-Project/assets/120365130/3343e9fa-307d-4ad2-8705-840decf39f73">
 
 
 ### Register Page
